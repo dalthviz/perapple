@@ -31,4 +31,4 @@
   [- Agregar sitio de interés a itinerario (Camilo)]
   [- Agregar evento a itinerario (Maria Camila)]
 
-TODAS LAS TAREAS SE HAN MOVIDO A ISSUES
+TODAS LAS TAREAS SE HAN MOVIDO A ISSUES 
